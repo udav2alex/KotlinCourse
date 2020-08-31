@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin Course</string>
+    <string name="button">Click to count</string>
+    <string name="not_available">n/a</string>
+</resources>
